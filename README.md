@@ -5,11 +5,13 @@ Tags: VPS监控,aff man 福利,
 
 
 
-== Description ==
+## Description
 * aff man 的专用插件
 * 网址：https://www.jiloc.com/go/jvps-aff
 
-# Frequently Asked Questions
+
+
+## Frequently Asked Questions
 * 有任何问题请到[链接](https://www.jiloc.com/go/jvps-aff)
 
 
@@ -19,8 +21,5 @@ Tags: VPS监控,aff man 福利,
 
 
 
-## Installation
-* 上传插件到你的博客，激活它。
-* Upload the plugin to your blog, activate it.
-
-1, 2: You're done!
+微信：**_uziwp** 或扫描下发二维码添加好友
+![image](https://www.jiloc.com/wp-content/uooz-it-wechat.png)
