@@ -1,6 +1,6 @@
 # JVPS-AFF
 Contributors: Leo
-Donate link: https://www.jiloc.com/go/donation
+Donate link: https://www.jiloc.com/go/donation  
 Tags: VPS监控,aff man 福利,
 
 
@@ -21,5 +21,5 @@ Tags: VPS监控,aff man 福利,
 
 
 
-微信：**_uziwp** 或扫描下发二维码添加好友
+微信：**_uziwp** 或扫描下发二维码添加好友  
 ![image](https://www.jiloc.com/wp-content/uooz-it-wechat.png)
