@@ -1,5 +1,5 @@
-=== JVPS-AFF ===
-Contributors: _jerryjee
+# JVPS-AFF
+Contributors: Leo
 Donate link: https://www.jiloc.com/go/donation
 Tags: VPS监控,aff man 福利,
 
@@ -9,18 +9,17 @@ Tags: VPS监控,aff man 福利,
 * aff man 的专用插件
 * 网址：https://www.jiloc.com/go/jvps-aff
 
-== Frequently Asked Questions ==
+# Frequently Asked Questions
 * 有任何问题请到[链接](https://www.jiloc.com/go/jvps-aff)
 
 
-== Changelog ==
+
+## Changelog
 [https://www.jiloc.com/go/jvps-aff]
 
 
 
-
-
-== Installation ==
+## Installation
 * 上传插件到你的博客，激活它。
 * Upload the plugin to your blog, activate it.
 
